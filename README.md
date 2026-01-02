@@ -10,3 +10,4 @@ The project combines:
 - Governance artifacts (Model Cards)
 
 All results are reproducible and stored in the `outputs/` folder.
+Please go to the "REPORT (2).md" to get a smooth access summary of the analysis.
