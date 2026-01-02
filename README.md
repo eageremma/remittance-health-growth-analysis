@@ -1,6 +1,6 @@
 # remittance-health-growth-analysis
 ## Overview
-This repository contains my MSc thesis analysis exploring the relationship between personal remittances, health indicators, and economic growth across countries (1995–2023).
+This repository contains a detailed excerpt version of my MSc thesis analysis exploring the relationship between personal remittances, health indicators, and economic growth across countries (1995–2023).
 
 The project combines:
 - Econometrics (ATE via AIPW)
