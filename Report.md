@@ -1,6 +1,4 @@
-# Remittance, Health & Economic Growth --- Executive Report
-
-**Author:** Emmanuel A.\
+# Remittance, Health & Economic Growth 
 **Scope:** 1995--2023 country-year panel\
 **Repository:** remittance-health-growth-analysis
 
